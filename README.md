@@ -1,4 +1,4 @@
-#Academic Management Platform
+# Academic Management Platform
 
 ## Overview
 The **Academic Management Platform** is an intelligent web application designed to centralize the management of educational resources, including students, teachers, courses, and timetables. The platform integrates an AI microservice to provide personalized educational resource recommendations, enhancing the digital learning experience.
